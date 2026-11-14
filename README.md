@@ -1,3 +1,5 @@
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=mattiasmathelart-commits&custom_title=Mattias%20%7C%20Github%20Statistics&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=shadow_red)](https://github-stats-extended.vercel.app/api?username=mattiasmathelart-commits&custom_title=Mattias%20%7C%20Github%20Statistics&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=shadow_red)
+
 ## Hi there 👋
 
 <!--
